@@ -1,0 +1,13 @@
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: dimgrey;
+    color: white;
+    font-size: 40px;
+}
+.all div:hover{
+    transition: all 0.2s 0s;
+    filter: brightness(80%);
+}
