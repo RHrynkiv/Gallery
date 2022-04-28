@@ -1,7 +1,7 @@
 import React from 'react'
 import style from "../Gallery.module.css";
 type WrapPropsType = {
-    IMG: any
+    IMG: string
     ClickedOnBlur: () => void
 }
 
